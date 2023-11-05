@@ -4,10 +4,6 @@ This project is a simple implementation of the classic Pong game in C# using Win
 
 ## Getting Started
 
-### Prerequisites
-
-- Visual Studio
-- Windows OS
 
 ### Installation
 
