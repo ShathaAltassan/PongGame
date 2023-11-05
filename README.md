@@ -1,6 +1,6 @@
-# Pong Game in C++ with Windows Forms
+# Pong Game in C# with Windows Forms
 
-This project is a simple implementation of the classic Pong game in C++ using Windows Forms in Visual Studio.
+This project is a simple implementation of the classic Pong game in C# using Windows Forms in Visual Studio.
 
 ## Getting Started
 
