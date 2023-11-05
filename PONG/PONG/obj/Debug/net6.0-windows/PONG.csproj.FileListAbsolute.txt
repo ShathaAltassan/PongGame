@@ -1,0 +1,36 @@
+C:\Users\96650\source\repos\PONG\PONG\bin\Debug\net6.0-windows\PONG.exe
+C:\Users\96650\source\repos\PONG\PONG\bin\Debug\net6.0-windows\PONG.deps.json
+C:\Users\96650\source\repos\PONG\PONG\bin\Debug\net6.0-windows\PONG.runtimeconfig.json
+C:\Users\96650\source\repos\PONG\PONG\bin\Debug\net6.0-windows\PONG.dll
+C:\Users\96650\source\repos\PONG\PONG\bin\Debug\net6.0-windows\PONG.pdb
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.csproj.AssemblyReference.cache
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.Properties.Resources.resources
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.csproj.GenerateResource.cache
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.AssemblyInfoInputs.cache
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.AssemblyInfo.cs
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.csproj.CoreCompileInputs.cache
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.dll
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\refint\PONG.dll
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.pdb
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.genruntimeconfig.cache
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\ref\PONG.dll
+C:\Users\96650\source\repos\PONG\PONG\obj\Debug\net6.0-windows\PONG.Pong.resources
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.csproj.AssemblyReference.cache
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.Pong.resources
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.Properties.Resources.resources
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.csproj.GenerateResource.cache
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.AssemblyInfoInputs.cache
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.AssemblyInfo.cs
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.csproj.CoreCompileInputs.cache
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.dll
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\refint\PONG.dll
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.pdb
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\bin\Debug\net6.0-windows\PONG.exe
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\bin\Debug\net6.0-windows\PONG.deps.json
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\bin\Debug\net6.0-windows\PONG.runtimeconfig.json
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\bin\Debug\net6.0-windows\PONG.dll
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\bin\Debug\net6.0-windows\PONG.pdb
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\PONG.genruntimeconfig.cache
+C:\Users\shath\OneDrive\سطح المكتب\A+\PROJECT\PONG\PONG\obj\Debug\net6.0-windows\ref\PONG.dll
