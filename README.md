@@ -1,7 +1,7 @@
 # Pong Game in C# with Windows Forms
 
+![‏‏لقطة الشاشة (229)](https://github.com/ShathaAltassan/PongGame/assets/139460879/a1e44d37-0524-4880-8ea7-d6d515f86978)
 
-![Uploading ‏‏لقطة الشاشة (229).png…]()
 
 This project is a simple implementation of the classic Pong game in C# using Windows Forms in Visual Studio.
 
