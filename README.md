@@ -6,6 +6,9 @@
 This project is a simple implementation of the classic Pong game in C# using Windows Forms in Visual Studio.
 
 ## CODE 
+
+```csharp
+
 namespace PONG
     
 
