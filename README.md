@@ -284,6 +284,7 @@ namespace PONG
         }
     }
 }
+```
 
 ## Getting Started
 
