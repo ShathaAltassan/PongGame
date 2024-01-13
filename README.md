@@ -1,4 +1,6 @@
 # Pong Game in C# with Windows Forms
+![Uploading image.png…]()
+
 
 This project is a simple implementation of the classic Pong game in C# using Windows Forms in Visual Studio.
 
