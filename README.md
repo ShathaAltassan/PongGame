@@ -1,9 +1,7 @@
 # Pong Game in C# with Windows Forms
 
 
-
-https://github.com/user-attachments/assets/88da60e5-e434-4916-8412-fa5397ba2b86
-
+https://github.com/user-attachments/assets/488a3cf6-5993-4e60-a6fd-41c3690c0e4d
 
 
 This project is a simple implementation of the classic Pong game in C# using Windows Forms in Visual Studio.
